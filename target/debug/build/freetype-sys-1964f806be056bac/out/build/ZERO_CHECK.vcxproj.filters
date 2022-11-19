@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="F:\RustProjects\rgl_font\target\debug\build\freetype-sys-1964f806be056bac\out\build\CMakeFiles\56cb4700e4e19084b14cc5392b48e976\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{BC07080D-5187-3AED-B0D8-3D6196EC8457}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

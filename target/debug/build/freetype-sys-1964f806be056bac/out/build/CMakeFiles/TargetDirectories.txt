@@ -1,0 +1,5 @@
+F:/RustProjects/rgl_font/target/debug/build/freetype-sys-1964f806be056bac/out/build/CMakeFiles/PACKAGE.dir
+F:/RustProjects/rgl_font/target/debug/build/freetype-sys-1964f806be056bac/out/build/CMakeFiles/freetype.dir
+F:/RustProjects/rgl_font/target/debug/build/freetype-sys-1964f806be056bac/out/build/CMakeFiles/INSTALL.dir
+F:/RustProjects/rgl_font/target/debug/build/freetype-sys-1964f806be056bac/out/build/CMakeFiles/ALL_BUILD.dir
+F:/RustProjects/rgl_font/target/debug/build/freetype-sys-1964f806be056bac/out/build/CMakeFiles/ZERO_CHECK.dir
